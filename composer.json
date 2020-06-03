@@ -1,4 +1,6 @@
 {
+    "name": "maximgubar/sf-router",
+    "description": "ololo",
     "type": "project",
     "license": "proprietary",
     "require": {
