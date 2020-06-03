@@ -8,6 +8,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "elasticsearch/elasticsearch": "^6.0",
+        "paragonie/random_compat": "^9.99",
         "predis/predis": "^1.1",
         "symfony/console": "5.1.*",
         "symfony/dotenv": "5.1.*",
@@ -38,7 +39,6 @@
         }
     },
     "replace": {
-        "paragonie/random_compat": "2.*",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-iconv": "*",
         "symfony/polyfill-php72": "*",

@@ -8,6 +8,9 @@
     "guzzlehttp/streams": {
         "version": "3.0.0"
     },
+    "paragonie/random_compat": {
+        "version": "v9.99.99"
+    },
     "php": {
         "version": "7.2"
     },
