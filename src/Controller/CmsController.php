@@ -5,7 +5,7 @@ namespace App\Controller;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 
-class ProductController extends AbstractController
+class CmsController extends AbstractController
 {
     public function index($entityId): Response
     {
