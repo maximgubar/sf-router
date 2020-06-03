@@ -2,11 +2,11 @@
     "elasticsearch/elasticsearch": {
         "version": "v7.7.0"
     },
-    "ezimuel/guzzlestreams": {
-        "version": "3.0.1"
+    "guzzlehttp/ringphp": {
+        "version": "1.1.1"
     },
-    "ezimuel/ringphp": {
-        "version": "1.1.2"
+    "guzzlehttp/streams": {
+        "version": "3.0.0"
     },
     "php": {
         "version": "7.2"
